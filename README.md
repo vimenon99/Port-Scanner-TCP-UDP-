@@ -1,4 +1,4 @@
-# Advanced Port Scanner
+# Python Port Scanner
 
 This project is an advanced port scanner written in Python. It can scan both TCP and UDP ports within a specified range and detect the services running on those ports. The script utilizes threading for concurrent scanning to increase efficiency.
 
